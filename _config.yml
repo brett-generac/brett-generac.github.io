@@ -23,6 +23,7 @@ navbar-links:
   About Me: "aboutme"
   # Dropdown:
   #   - Link: ""
+  Resume: "/assets/Resume.pdf"
 
 ################
 # --- Logo --- #
