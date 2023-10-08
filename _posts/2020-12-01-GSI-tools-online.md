@@ -7,5 +7,6 @@ subtitle: Enterprise Experience
 # share-img: /assets/img/path.jpg
 ---
 
+Proprietary application for processing SEO data - Flask App which delivers complex client side JavaScript and triggers AWS Lambdas.
 
 https://globalstrategies.tools/
