@@ -9,4 +9,4 @@ site-link: https://globalstrategies.tools
 
 Proprietary application for processing SEO data - Flask App which delivers complex client side JavaScript and triggers AWS Lambdas.
 
-[https://globalstrategies.tools](https://globalstrategies.tools)
+<a href="https://globalstrategies.tools" target="_blank">https://globalstrategies.tools</a>
