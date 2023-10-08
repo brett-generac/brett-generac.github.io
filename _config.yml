@@ -51,7 +51,7 @@ social-network-links:
   email: "brettsherwood12@gmail.com"
   # rss: true  # remove this line if you don't want to show an RSS link at the bottom
   # facebook: yourfacebook
-  github: daattali
+  github: brett-generac
   # twitter: yourtwitter
   # patreon: yourpatreon
   # youtube: youryoutube
@@ -60,11 +60,11 @@ social-network-links:
   linkedin: brett-sherwood12
   # xing: yourname
   # stackoverflow: "3943160/daattali"
-  # snapchat: deanat78
-  # instagram: deanat78
+  # snapchat: yoursnapchat
+  # instagram: yourinstagram
   # spotify: yourname
   # telephone: +14159998888
-  # steam: deanat78
+  # steam: yoursteam
   # twitch: yourname
   # yelp: yourname
   # telegram: yourname
@@ -87,9 +87,9 @@ rss-description: This website is a virtual proof that I'm awesome
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
-  linkedin: true
+  twitter: false
+  facebook: false
+  linkedin: false
   vk: false
 
 # How to display the link to your website in the footer
@@ -129,13 +129,13 @@ navbar-col: "#6E0D25"
 navbar-text-col: "#C19A6B"
 navbar-border-col: "#F1EBE4"
 page-col: "#247571"
-# text-col: "#404040"
+text-col: "#000000"
 link-col: "#C19A6B"
 hover-col: "#F1EBE4"
 footer-col: "#6E0D25"
 footer-text-col: "#F1EBE4"
 footer-link-col: "#C19A6B"
-# footer-hover-col: "#0085A1"
+footer-hover-col: "#F1EBE4"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
