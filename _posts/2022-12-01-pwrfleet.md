@@ -1,0 +1,10 @@
+---
+layout: post
+title: PWRfleet
+subtitle: Enterprise Experience
+# cover-img: /assets/img/path.jpg
+# thumbnail-img: /assets/img/thumb.png
+# share-img: /assets/img/path.jpg
+# tags: [books, test]
+---
+My main project while working for Generac Clean Energy Systems, enterprise web app used for registering and monitoring IoT devices, primarily the Generac PWRcell inverter/battery system. Mobile-friendly React-Typescript App that interfaces with a backend ecosystem of Spring Boot Microservices. Uses Redux and RTK Query for asynchronous global state. Uses Material UI for components and theme. Uses ChartJS for complex data visualizations. Uses Unleash for feature toggles/incremental rollout of features. Uses Storybook for designing and documenting components. Uses AWS for auth and deployments, and CircleCI for builds.
