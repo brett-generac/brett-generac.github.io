@@ -9,4 +9,4 @@ thumbnail-img: /assets/img/chilicon-cloud.png
 ---
 Legacy application inherited by Generac Clean Energy Systems from an acquisition - Django App in Docker container network used for fleet monitoring of Chilicon Power microinverters.
 
-https://cloud.chiliconpower.com
+[https://cloud.chiliconpower.com](https://cloud.chiliconpower.com)
