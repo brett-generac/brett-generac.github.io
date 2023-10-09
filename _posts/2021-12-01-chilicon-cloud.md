@@ -7,7 +7,7 @@ gh-badge: [follow]
 # cover-img: /assets/img/chilicon-cloud.png
 thumbnail-img: /assets/img/chilicon-cloud.png
 ---
-Legacy application inherited by Generac Clean Energy Systems from an acquisition, a monitoring platform for IoT device performance, Chilicon Power microinverters.
+Legacy application inherited from an acquisition made by Generac Clean Energy Systems, a monitoring platform for IoT device (microinverter) performance and remote configuration.
 
 Django App in Docker Container network.
 
