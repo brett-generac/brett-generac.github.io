@@ -13,6 +13,6 @@ Django App in Docker Container network.
 
 I improved this project's incredibly messy code base, both on the client side and server side. Also, restyled the UI and wrote documentation, which was previously nonexistent.
 
-At the link below, click checkout a "demo account" to use the product.
+At the link below, click "demo account" to use the product.
 
 <a href="https://cloud.chiliconpower.com" target="_blank">https://cloud.chiliconpower.com</a>
