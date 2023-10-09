@@ -9,7 +9,7 @@ thumbnail-img: /assets/img/chilicon-cloud.png
 ---
 Legacy application inherited from an acquisition made by Generac Clean Energy Systems, a monitoring platform for IoT device (microinverter) performance and remote configuration.
 
-Django App in Docker Container network.
+Django app in Docker Container network.
 
 I improved this project's incredibly messy code base, both on the client side and server side. Also, restyled the UI and wrote documentation, which was previously nonexistent.
 
