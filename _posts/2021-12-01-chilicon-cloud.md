@@ -2,8 +2,8 @@
 layout: post
 title: Chilicon Cloud
 subtitle: Enterprise Experience
-gh-repo: neurio/chilicon_cloud
-gh-badge: [follow]
+# gh-repo: neurio/chilicon_cloud
+# gh-badge: [follow]
 # cover-img: /assets/img/chilicon-cloud.png
 thumbnail-img: /assets/img/chilicon-cloud.png
 ---
