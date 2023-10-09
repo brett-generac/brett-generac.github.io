@@ -131,8 +131,8 @@ navbar-text-col: "#FFFFFF"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
 text-col: "#404040"
-link-col: "#2A8984"
-hover-col: "#247571"
+link-col: "#008AFF"
+hover-col: "#007CE6"
 footer-col: "#247571"
 footer-text-col: "#FFFFFF"
 footer-link-col: "#C8A77D"
@@ -283,7 +283,6 @@ exclude:
   - Gemfile.lock
   - LICENSE
   - README.md
-  - screenshot.png
   - docs/
 
 plugins:
