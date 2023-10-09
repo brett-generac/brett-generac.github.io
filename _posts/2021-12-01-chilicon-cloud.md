@@ -7,7 +7,7 @@ subtitle: Enterprise Experience
 # cover-img: /assets/img/chilicon-cloud.png
 thumbnail-img: /assets/img/chilicon-cloud.png
 ---
-Legacy application inherited from an acquisition made by Generac Clean Energy Systems, a monitoring platform for IoT device (microinverter) performance and remote configuration.
+Legacy application inherited from an acquisition made by Generac, a monitoring platform for IoT device (microinverter) performance and remote configuration.
 
 Django app in Docker Container network.
 
