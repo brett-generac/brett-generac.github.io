@@ -64,7 +64,7 @@ hr.small {
   max-width: 6.25rem;
   margin: 1rem auto;
   border-width: 0.25rem;
-  border-color: #F1EBE4;
+  border-color: inherit;
   border-radius: 0.1875rem;
 }
 
@@ -438,7 +438,7 @@ footer .footer-custom-content {
 
 .post-preview {
   padding: 1.25rem 0;
-  border-bottom: 1px solid #eee;
+  border-bottom: 1px solid #ccc;
   overflow: hidden;
 }
 
@@ -511,6 +511,7 @@ footer .footer-custom-content {
 .post-preview .post-image img {
   max-height: 100%;
   max-width: 100%;
+  box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
 }
 .post-preview .post-image-short {
   margin-top: -2.1875rem;
