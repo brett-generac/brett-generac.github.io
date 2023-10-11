@@ -13,4 +13,6 @@ Vanilla JS used for reading and uploading files, and for gathering data from 3rd
 
 I was the sole frontend developer at the company, and I redesigned the entire site, and took ownership of the codebase by refactoring it, documenting it, and ensuring quality.
 
+The website is for GSI employees only, but here it the link anyway.
+
 <a href="https://globalstrategies.tools" target="_blank">https://globalstrategies.tools</a>
