@@ -3,8 +3,9 @@ layout: page
 title: About me
 subtitle: Why I'm not a bummer to work with
 ---
-
-<img src="{{ '/assets/img/vancouver.jpg' }}" alt="author in Vancouver, BC" />
+<div style="min-height: 577.5px">
+    <img src="{{ '/assets/img/vancouver.jpg' }}" alt="author in Vancouver, BC" />
+</div>
 
 Sometimes I stand weird in photos, and I do my best to make work fun.
 
